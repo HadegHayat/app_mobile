@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "836622470704",
+    "project_id": "quiz-farebase",
+    "storage_bucket": "quiz-farebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836622470704:android:92dfd4ef1f5b4369b167f5",
+        "android_client_info": {
+          "package_name": "com.example.quizme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWS84Yp7f8e06ghqWMPE9SFM5c5sDTnJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
